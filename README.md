@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:15/12/2023
+## Date:18/12/2023
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -16,23 +16,14 @@ Creating the layout using HTML and CSS.
 Updating the sample content.
 
 ### Step 4:
-Choose the appropriate style and color scheme.
-
-### Step 5:
-Validate the layout in various browsers.
-
-### Step 6:
-Validate the HTML code.
-
-### Step 7:
-Publish the website in the given URL.
+Choose the appropriate style and color scheme
 
 ## PROGRAM:
 ```
 start.html
 
 <html>
-<title>TESLA</title>
+<title>DELL</title>
 <style>
     body{
         background:url(bg.png);
@@ -172,14 +163,14 @@ start.html
         </div>
     </form>
 
-    <h1>WELCOME TO TESLA</h1>
-    <h2>The Place Of Innovation</h2>
-    <h2>Electric cars</h2>
+    <h1>WELCOME TO DELL TECHNOLOGIES</h1>
+    <h2>WHEREVER WORK TAKES YOU,WE'LL BE THERE</h2>
+    <h2>Latest Computers & Technology Solutions</h2>
     <a href="sign.html">
         <input type="button" value="JOIN US" class="join">
     </a>  
     
-    <h3>"Creativity Is Intelligence Having Fun "</h3>
+    <h3>"The power to do more... "</h3>
 
          <center>
         <div class="login">
@@ -208,7 +199,7 @@ project.html
 
 
 <html>
-    <title>our products</title>
+    <title>OUR PRODUCTS</title>
     <style>  
     body{
         background:url(bg.png);
@@ -280,8 +271,8 @@ project.html
         </form>
         
         <center>
-            <h1 >OUR PRESTIGEOUS PROJECTS</h1>
-        <img src="tesla.png" height="500" width="800">
+            <h1 >OUR PRESTIGEOUS PRODUCTS</h1>
+        <img src="dellpro.png" height="500" width="800">
     </center>
     </body>
     <footer style="background-color:lime;margin-top: 64; border: none;">
@@ -532,7 +523,7 @@ signup.html
         </div>
     </form>
     <div class="form">
-        <p align="center">JOIN THE GROUP OF TESLA</p>
+        <p align="center">JOIN THE GROUP OF DELL</p>
         <p align="center">DON'T HAVE AN ACCOUNT YET?</p>
         <div class="full">
         <div class="text">
@@ -728,7 +719,7 @@ border:2px solid white;
         <b >Email:</b>
         <p >nishadayalan28@gmail.com</p>
         <b >Phone</b>
-        <p >8925122005</p>
+        <p >9876543210</p>
     </center>
     </div>
 </body>
@@ -740,18 +731,16 @@ border:2px solid white;
 ```
 
 ## OUTPUT:
-![Alt text](Nisha/softapp/static/page11.png)
+![Alt text](<Nisha/softapp/static/Screenshot (99).png>)
+![Alt text](<Nisha/softapp/static/Screenshot (100).png>)
 
-![Alt text](Nisha/softapp/static/page22.png)
+![Alt text](<Nisha/softapp/static/Screenshot (101).png>)
 
-![Alt text](Nisha/softapp/static/page33.png)
+![Alt text](<Nisha/softapp/static/Screenshot (102).png>)
 
-![Alt text](Nisha/softapp/static/page44.png)
-
-![Alt text](Nisha/softapp/static/page55.png)
-
-
+![Alt text](<Nisha/softapp/static/Screenshot (103).png>)
 
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
+
